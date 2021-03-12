@@ -41,5 +41,5 @@ honeyBeesCrochet.add_products(alien)
 
 # Increase price
 summerShawl.update_price(.02, True).print_info()
-# print(summerShawl.print_info())
+# print(summerShawl.print_info()) # not needed as the line above auto prints
 
